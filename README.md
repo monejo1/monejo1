@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a second year computer science student from Chile ⁽ˊᵕˋ⁾</p>
+<p align="left">I'm a second year computer science student from Chile </p>
 
 ###
 
